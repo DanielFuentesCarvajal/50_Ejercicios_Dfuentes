@@ -1,0 +1,8 @@
+A=int(input("Ingrese el numero del dia de la semana "))
+if A==1: print("Lunes")
+if A==2: print("Martes")
+if A==3: print("Miercoles")
+if A==4: print("Jueves")
+if A==5: print("Viernes")
+if A==6: print("Sabado")
+if A==7: print("Domingo")
